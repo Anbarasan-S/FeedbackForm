@@ -1,0 +1,25 @@
+.heading
+{
+    color:red;
+    text-align: center;
+}
+.card
+{
+    border: 2px solid;
+    height:20rem;
+    width: 50rem;
+    display:flex;
+    justify-content: center;    
+    margin-left:15rem;
+    margin-top:5rem;
+}
+.container
+{
+    /* /* display: flex; */
+    margin-top:2rem;
+}
+.form label
+{ 
+    margin-right: 2rem;    
+    font-size:20px
+}
